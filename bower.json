@@ -5,8 +5,8 @@
     "**/*"
   ],
   "main": [
-    "../highcharts/modules/solid-gauge.js",
-    "../highcharts/highcharts-more.js"
+    "../highcharts/highcharts-more.js",
+    "../highcharts/modules/solid-gauge.js"
   ],
   "dependencies": {
     "highcharts": "highcharts-release#^5.0.0"
