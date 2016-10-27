@@ -5,7 +5,6 @@
     "**/*"
   ],
   "main": [
-    "../highcharts/highcharts.js",
     "../highcharts/highcharts-more.js",
     "../highcharts/modules/solid-gauge.js"
   ],
