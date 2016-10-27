@@ -6,6 +6,7 @@
   ],
   "main": [
     "../highcharts/highcharts-more.js",
+    "../highcharts/highcharts-more.js",
     "../highcharts/modules/solid-gauge.js"
   ],
   "dependencies": {
