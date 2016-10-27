@@ -1,6 +1,7 @@
 {
   "name": "fw-highcharts",
   "version": "v5.0.2",
+  "ignore": "**/*",
   "main": [
     "../highcharts/highcharts.js",
     "../highcharts/js/modules/solid-gauge.js"
