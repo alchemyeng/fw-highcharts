@@ -9,6 +9,6 @@
     "../highcharts/js/modules/solid-gauge.js"
   ],
   "dependencies": {
-    "highcharts": "highcharts-release~5.0"
+    "highcharts": "highcharts-release#^5.0.0"
   }
 }
